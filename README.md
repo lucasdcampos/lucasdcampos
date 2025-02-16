@@ -3,7 +3,7 @@
 <p align=center>I'm a brazilian 🇧🇷 software developer who likes to create random stuff.</p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=lucasdcampos&data=followers,repositories,stars&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=csharp,python,linux,git,html,css&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=csharp,python,linux,git,html,css&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 <details>
 <summary><b>Contact me</b></summary>
