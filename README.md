@@ -1,6 +1,6 @@
 <h1 align=center>👋 Hi. I'm <a href="https://github.com/lucasdcampos">Lucas Campos</a> </h1>
 
-<p align=center>I'm a brazilian 🇧🇷 software developer who likes to create random stuff.</p>
+<p align=center>I'm a software developer who likes to create random stuff.</p>
 
 <!--
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=lucasdcampos&data=followers,repositories,stars&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
