@@ -6,9 +6,9 @@ Info:
 
 List of projects that I want to create:
 
-[] Virtual Machine and Interpreter for a simple Programming Language
+[-] Virtual Machine and Interpreter for a simple Programming Language
 [] Wolfram Alpha like program (Ultra fancy calculator)
-[] Solar System Simulation
+[X] Solar System Simulation
 [] Videogame for the Game Boy Advance console (that runs on real hardware)
 [] C++ Game Engine (With 3D capabilities)
 [] Chess Engine that can beat me
