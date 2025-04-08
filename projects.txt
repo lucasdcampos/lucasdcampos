@@ -6,7 +6,8 @@ Info:
 
 List of projects that I want to create:
 
-[-] Virtual Machine and Interpreter for a simple Programming Language
+[x] Interpreter for a simple Programming Language
+[-] Virtual Machine and Compiler for a more robust Programming Language
 [] Wolfram Alpha like program (Ultra fancy calculator)
 [X] Solar System Simulation
 [] Videogame for the Game Boy Advance console (that runs on real hardware)
