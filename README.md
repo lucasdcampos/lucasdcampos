@@ -39,12 +39,13 @@
     <li>💻 Since 2025, working at <b>D-Sec Lab</b> as a <b>Full Stack Developer</b> focused on cryptocurrencies solutions.</li>
     <li>🏁 Participated in the final phase of the <b>14th InterFATECs Programming Marathon</b>.</li>
   </ul>
+  <a href="https://lucasof.com" target="_blank">lucasof.com</a>
 </details>
 
 <details>
 <summary><b>📫 Contact me</b></summary>
 <ul>
- <li><a href="mailto:lucasm.campos@hotmail.com.br">Email</a></li>
+ <li><a href="mailto:hi@lucasof.com">Email (hi@lucasof.com)</a></li>
   <li><a href="https://www.linkedin.com/in/lucazof/">LinkedIn</a></li>
 </ul>
 </details>
