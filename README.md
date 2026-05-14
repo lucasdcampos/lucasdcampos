@@ -37,6 +37,7 @@
   <ul>
     <li>🎓 Enrolled at <b>São Paulo State College of Technology (FATEC)</b> in 2024.</li>
     <li>💻 Since 2025, working at <b>D-Sec Lab</b> as a <b>Full Stack Developer</b> focused on cryptocurrencies solutions.</li>
+    <li>🔧 Maintainer of <a href="https://github.com/linguagem-libra/libra">linguagem-libra/libra</a> </li>
     <li>🏁 Participated in the final phase of the <b>14th InterFATECs Programming Marathon</b>.</li>
   </ul>
   <a href="https://lucasof.com" target="_blank">lucasof.com</a>
